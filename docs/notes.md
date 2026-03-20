@@ -29,3 +29,4 @@ Notes and usage details for shuttleslide.
 - fix a small wording issue
 - clarify the setup steps
 - link the usage section
+- clarify the setup steps
